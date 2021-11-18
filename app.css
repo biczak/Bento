@@ -52,6 +52,14 @@
   ); /* Filter color */
 }
 
+.twitch {
+  color: #9146ff !important;
+}
+
+.youtube {
+  color: #FF0000 !important;
+}
+
 /* S T Y L E S */
 
 * {
