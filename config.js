@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: "Alex!",
+  name: "Alex",
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: true,
@@ -20,7 +20,7 @@ const CONFIG = {
   greetingMorning: "Good morning,",
   greetingAfternoon: "Good afternoon,",
   greetingEvening: "Good evening,",
-  greetingNight: "Go to Sleep!",
+  greetingNight: "Go to sleep,",
 
   // Weather
   weatherKey: "f6e637e34fc902d7bd06cdca768e4763",
@@ -47,7 +47,7 @@ const CONFIG = {
     {
       id: "2",
       name: "Gmail",
-      icon: "gmail",
+      icon: "mail",
       link: "https://mail.google.com/mail/u/0/",
     },
     {
@@ -71,7 +71,7 @@ const CONFIG = {
     {
       id: "6",
       name: "Reddit",
-      icon: "reddit",
+      icon: "trending-up",
       link: "https://reddit.com",
     },
   ],
