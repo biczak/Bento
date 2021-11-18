@@ -52,12 +52,22 @@
   ); /* Filter color */
 }
 
+#twitch:hover {
+  background: #9146ff !important;
+  color: #ffffff !important;
+}
+
+#youtube:hover {
+  background: #ff0000 !important;
+  color: #ffffff !important;
+}
+
 .twitch {
-  color: #9146ff !important;
+  color: #9146ff;
 }
 
 .youtube {
-  color: #FF0000 !important;
+  color: #FF0000;
 }
 
 /* S T Y L E S */
