@@ -166,7 +166,8 @@ body {
 }
 
 #month,
-#day {
+#day,
+#dotw {
   font-size: var(--fsm);
   font-weight: bold;
   color: var(--fg);
